@@ -32,8 +32,6 @@ const Newsletter: React.FC = () => {
                     <div className="mt-3 sm:mt-0 sm:ml-3">
                       <button
                         type="submit"
-                        className="block w-full py-3 px-6 border border-transparent rounded-md shadow-warm<pivotalAction type="file" filePath="src/components/Newsletter.tsx">
-                        type="submit"
                         className="block w-full py-3 px-6 border border-transparent rounded-md shadow-warm text-base font-medium text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 sm:px-10 transition duration-150"
                       >
                         Subscribe
